@@ -1,1 +1,16 @@
-# odin-landing-page
+# Welcome
+
+## Project: Landing Page
+
+This project was part of the [Odin Project](https://www.theodinproject.com) Foundations Course.
+
+You can see the live preview [here.](https://eszdevstar.github.io//)
+
+The  images used in this project can be found [here]()
+
+## Assignment
+
+This project cover the basics of _**HTML**_ and _**CSS**_ to make a static landing page.
+
+
+### code with love <3

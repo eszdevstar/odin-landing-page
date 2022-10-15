@@ -6,7 +6,7 @@ This project was part of the [Odin Project](https://www.theodinproject.com) Foun
 
 You can see the live preview [here.](https://eszdevstar.github.io/odin-landing-page/)
 
-The  images used in this project can be found [here]()
+The  images used in this project can be found [here](https://commons.wikimedia.org/wiki/Main_Page)
 
 ## Assignment
 

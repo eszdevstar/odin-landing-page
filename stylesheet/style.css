@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 #hero,
 #footer {
     background-color: #1f2937;
@@ -14,9 +18,28 @@
 }
 
 .logo,
-.heder-link,
+.header-link,
 .info-image {
     text-decoration: none;
+}
+
+.nav-bar,
+.main-con {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px 40px 15px 40px;
+    padding: 10px 40px 10px 40px;
+}
+
+.links {
+    display: flex;
+
+}
+
+.header-link {
+    margin: 10px;
+    padding: 10px;
 }
 
 .main {
@@ -26,7 +49,7 @@
 }
 
 .secondary,
-.heder-link {
+.header-link {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -52,10 +75,35 @@
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.link-container {
+    margin: 15px 40px 15px 40px;
+    padding: 20px 40px 20px 40px;
+}
+
+.cont-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cont-container > a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .q-section {
     background-color: #e5e7eb;
+}
+
+.q-section > p {
+    text-align: end;
+    margin: 2px 40px 20px 40px;
+    padding: 2px 40px 10px 40px;
 }
 
 .quote {
@@ -63,6 +111,8 @@
     font-weight: 300;
     font-style: italic;
     color: #1f2937;
+    margin: 20px 40px 20px 40px;
+    padding: 10px 40px 10px 40px;
 }
 
 .round-mb {
